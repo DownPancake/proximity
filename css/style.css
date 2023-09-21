@@ -46,3 +46,7 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
+.price p {
+	display: flex;
+	justify-content: flex-end;
+}
