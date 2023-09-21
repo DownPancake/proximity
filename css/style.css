@@ -46,3 +46,14 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 40%;
+}
+
+.menu-item {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
