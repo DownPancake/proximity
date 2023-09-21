@@ -46,7 +46,7 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
-.price p {
+.menu-name {
 	display: flex;
-	justify-content: flex-end;
+	margin-bottom: 10px;
 }
