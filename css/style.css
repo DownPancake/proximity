@@ -47,6 +47,5 @@ header li {
 
 /********************** Your Code Goes Here ******************/
 .menu-name {
-	display: flex;
 	margin-bottom: 10px;
 }
