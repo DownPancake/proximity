@@ -46,7 +46,3 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
-section {
-	display: flex;
-	flex-wrap: wrap;
-}
