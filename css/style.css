@@ -46,8 +46,3 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
-
-.menu {
-	display: flex;
-	flex-flow: row wrap;
-}
