@@ -46,3 +46,8 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
+.main{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
