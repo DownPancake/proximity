@@ -46,11 +46,3 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
-.menu-name {
-	margin-bottom: 10px;
-}
-
-.menu-item {
-	display: flex;
-	flex-flow: wrap;
-}
