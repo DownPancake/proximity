@@ -46,16 +46,10 @@ header li {
 }
 
 /********************** Your Code Goes Here ******************/
-.container {
-	display: flex;
-	flex-wrap: wrap;
-	width: 40%;
-}
-
-.menu-item {
-	display: flex;
-	flex-wrap:wrap;
-	justify-content: space-between;
+.clearfix {
+	max-width: 700px;
+	margin: 0 auto;
+	margin-bottom: 30px;
 }
 
 .starters,
@@ -66,7 +60,10 @@ header li {
 	margin-bottom: 10px;
 }
 
-.price {
+.container {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 10px;
+	width: 70%;
 }
