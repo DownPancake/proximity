@@ -54,6 +54,19 @@ header li {
 
 .menu-item {
 	display: flex;
-	flex-wrap: wrap;
+	flex-wrap:wrap;
 	justify-content: space-between;
+}
+
+.starters,
+.main,
+.sweets,
+.beverages {
+	border: 1px solid red;
+	margin-bottom: 10px;
+}
+
+.price {
+	display: flex;
+	flex-wrap: wrap;
 }
