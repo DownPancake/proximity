@@ -61,9 +61,16 @@ header li {
 }
 
 .container {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
 	padding: 10px;
-	width: 70%;
+	text-align: center;
+}
+
+.beverages .menu-item,
+.price {
+	display: flex;
+	justify-content: center;
+}
+
+h4 {
+	margin-right: 10px ;
 }
